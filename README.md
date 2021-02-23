@@ -1,8 +1,5 @@
 ## Evandro Pavei
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandrozillipavei/)](https://www.linkedin.com/in/evandrozillipavei/)
-[![Codewars Badge](https://www.codewars.com/users/evzpav/badges/micro)](https://www.codewars.com/users/evzpav/badges/micro)
-
 ### Main interests / skills
 * Golang <img src="https://github.com/evzpav/evzpav/blob/master/icons/gopher2.png" alt="gopher" width="20"/>
 * JavaScript / NodeJs / VueJs / ReactJs
